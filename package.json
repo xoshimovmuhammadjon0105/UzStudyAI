@@ -1,0 +1,14 @@
+
+{
+  "name": "uzstudy-ai",
+  "version": "1.0.0",
+  "description": "UzStudy AI educational assistant",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0"
+  }
+}
